@@ -1,0 +1,8 @@
+ftfy
+numpy
+open_clip_torch
+pillow
+regex
+torch
+torchvision
+tqdm
